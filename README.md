@@ -1,16 +1,25 @@
-### Hi there 👋
+ # WELCOME 
 
-<!--
-**dantas-726/dantas-726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My name is Pedro
 
-Here are some ideas to get you started:
+> From:  Campina Grande - PB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Student
+
+
+### Hobbies
+
+-Games 🎮
+-Netflix 📺
+-Gym 🏋️
+-Music 🎵
+
+
+### <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width="50"> Social Midia  
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/dantas-726)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Oi!)](https://api.whatsapp.com/send?phone=seu_telefone_+55+83+988719459&text=Oi!) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:pphd10@gmail.com)
+[![Steam Badge](https://img.shields.io/badge/Steam-Profile-lightgrey)](https://steamcommunity.com/id/dantas726)

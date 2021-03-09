@@ -1,10 +1,10 @@
  # WELCOME 
 
-> My name is Pedro
+> **My name is Pedro**
 
-> From:  Campina Grande - PB
+> **From:  Campina Grande - PB**
 
-> Student
+> **Student**
 
 
 ### Hobbies
